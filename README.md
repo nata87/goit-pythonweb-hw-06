@@ -33,3 +33,17 @@
 
 ```bash
 docker run --name my_postgres_hw06 -p 5432:5432 -e POSTGRES_PASSWORD=mysecretpassword -d postgres
+```
+
+---
+
+## Висновок виконаної роботи
+
+- **Таблиці в базі даних PostgreSQL після міграцій та наповнення**
+  ![psql output](img/psql.PNG)
+
+- **Контейнер і образи PostgreSQL у Docker Desktop**
+  ![Docker images](img/docker.PNG)
+
+
+
